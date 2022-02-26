@@ -1,0 +1,2303 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The last visitation: conflicts and death of Mr. Thomas Peacock batchellor of divinity, and fellow of Brasen-nose-Colledge in Oxford. Published by E B from the copie of that famous divine, Mr. Robert Bolton, late minister of Broughton in Northhampton-shire.</title>
+            <author>Bolton, Robert, 1572-1631.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1660</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 65 KB of XML-encoded text transcribed from 45 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A74716</idno>
+            <idno type="STC">Wing B3514A</idno>
+            <idno type="STC">Thomason E2103_1</idno>
+            <idno type="STC">ESTC R210121</idno>
+            <idno type="EEBO-CITATION">99897553</idno>
+            <idno type="PROQUEST">99897553</idno>
+            <idno type="VID">135425</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A74716)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 135425)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2508:6)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The last visitation: conflicts and death of Mr. Thomas Peacock batchellor of divinity, and fellow of Brasen-nose-Colledge in Oxford. Published by E B from the copie of that famous divine, Mr. Robert Bolton, late minister of Broughton in Northhampton-shire.</title>
+                  <author>Bolton, Robert, 1572-1631.</author>
+                  <author>Bagshaw, Edward, 1629-1671.</author>
+               </titleStmt>
+               <extent>[12], 66, [4] p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for William Miller at the guilded Acron [sic], near the little North-doore in St Pauls Church-yard,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1660.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Edited by Edward Bagshaw  cf. NUC pre-1956 imprints.</note>
+                  <note>Annotation on Thomason copy: "Sept:".</note>
+                  <note>Reproduction of original in the Dr. Williams's Library, London, England.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Peacock, Thomas, 1570 or 71-1611 --  Early works to 1800.</term>
+               <term>Suffering --  Religious aspects --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-12</date>
+            <label>Olivia Bottum</label>Sampled and proofread</change>
+         <change>
+            <date>2012-12</date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:135425:1"/>
+            <pb facs="tcp:135425:1"/>
+            <p>THE LAST VISITATION: CONFLICTS and DEATH OF Mr. <hi>THOMAS PEACOCK,</hi> Batchellar of Divinity, and Fellow of <hi>Braſen-noſe</hi>-Colledge In <hi>OXFORD.</hi>
+            </p>
+            <p>Publiſhed by <hi>E.</hi> B from the Copie of that famous Divine, Mr. <hi>Robert Bolton,</hi> late Miniſter of <hi>Broughton</hi> in <hi>North<g ref="char:EOLhyphen"/>hampton-ſhire.</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>William Miller</hi> at the guilded <hi>Acron,</hi> near the little <hi>North-doore</hi> in St <hi>Pauls</hi> Church-yard. 1660.</p>
+         </div>
+         <div type="preface">
+            <pb facs="tcp:135425:2"/>
+            <pb facs="tcp:135425:2"/>
+            <head>THE PREFACE TO the READER.</head>
+            <opener>
+               <salute>Chriſtian Reader,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">I</seg> Had not performed a trust, had not I publiſhed this enſu<g ref="char:EOLhyphen"/>ing <hi>Narrative;</hi> and I had not paid a debt which I doe and ſhall ever owe to the Publike, had not I made it common. <hi>M<hi rend="sup">r</hi> Bolton</hi> (a man of precious me<g ref="char:EOLhyphen"/>mory, and famous in his generati<g ref="char:EOLhyphen"/>on) deſired me upon his death-bed, <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o publiſh ſuch of his papers as I <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hought fit for the Preſſe, which I have already done. This copy be<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ng found amongſt them, (though
+<pb facs="tcp:135425:3"/> penned by another hand) I durſt not withhold, being to my know<g ref="char:EOLunhyphen"/>ledge intended by him for the preſse in memory of his familiar friend and ſpirituall father, <hi>M<hi rend="sup">r</hi> Thomas Peacock;</hi> who was a very Godly Miniſter of Christ, and of rare ex<g ref="char:EOLunhyphen"/>ample for humility and holines o<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> life; for a Religious care in educa<g ref="char:EOLunhyphen"/>ting his ſcholars, and for exceed<g ref="char:EOLunhyphen"/>ing charity to the bodies and ſouls o<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> poor diſtreſsed Christians. An<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> yet this godly man, that for piet<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> had in him the root of an Oak, whe<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> God caſt him upon his bed of ſick<g ref="char:EOLunhyphen"/>nes, and ſuffered Satan to winno <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> him, he was no more in his hand then a leaf toſsed too and fro wit <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> the winde. Gods dealings wit <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> him in theſe his last conflicts, ar<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> of ſingular uſe in theſe preſent times in which the ends of the world, an<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the dreggs of ſchiſme and ſinne an<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> come upon us at once.</p>
+            <pb facs="tcp:135425:3"/>
+            <p>First, for caution to the true ſer<g ref="char:EOLhyphen"/>vants of God, to take heed of ſmall ſinnes; for from the leſser ſinnes and infirmities of <hi>M<hi rend="sup">r</hi> Peacock,</hi> the Devil did thence take a riſe to caſt him into the moſt bitter ſpirituall deſertion that we ſhall lightly read <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>f: under which he had ſunk, had not God wonderfully put to his hand, by making the iſſue of his afflicti<g ref="char:EOLhyphen"/>ons more glorious and comfortable, <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hen the combate was grievous and <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>errible. It was a memorable ſay<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ng of <hi>Francis Spira,</hi> which he ſpake to his mournfull children and friends, beholding that ſad ſpecta<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>le of his ſmall deſpaire, earneſtly wiſhing them to take heed of com<g ref="char:EOLhyphen"/>mitting the ſmalleſt ſinnes againſt <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>onſcience; By this means, ſaith he, I fell into greater ſinnes, till I <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ame to deny the Goſpel of Chriſt, <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nd after that to renounce it in <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>riting, and deliberately to ſub<g ref="char:EOLhyphen"/>ſcribe
+<pb facs="tcp:135425:4"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb facs="tcp:135425:4"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb facs="tcp:135425:5"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb facs="tcp:135425:5"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb facs="tcp:135425:6"/> to it with my hand, though (ſaith he) <hi>I hea<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d a voice in my conſcience telling me,</hi> Spira, <hi>doe not ſubſcribe it; after which I thought I heard the voice of Chriſt whom I denyed before men, to pronounce the ſentence of death upon my ſoul, and to exclude me from ſalvation. And thus he dyed.</hi>
+            </p>
+            <p>Secondly, for confutation of ſun<g ref="char:EOLhyphen"/>dry ſor<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s in Religion, in theſe un<g ref="char:EOLhyphen"/>happy dayes of Civill warre, as na<g ref="char:EOLhyphen"/>turally producing them as mud and filth doe toads and vermin. Some there are that quite abrogate the Law, which Chriſt came to fulfill, and ſo make the gate of Heaven wider then ever our Saviour made it, by admitting lawleſse perſons into it. Holy <hi>Bradford</hi> was of ano<g ref="char:EOLhyphen"/>ther minde, who was wont to ſay, that the gate of Heaven was ſo ſtrait, that he which halted
+<pb facs="tcp:135425:6"/> could not enter into it; and the way <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> narrow, that he which reeled <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>uld not walk in it. Others there <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>re, who though they doe not whol<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> deſtroy the law, yet they caſt it <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> to a dead ſleep, thinking it un<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>wfull in the children of God to be <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>rry, or to mourn for ſinne, con<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ary to the Doctoine of the primi<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ve Fathers, teaching this leſſon, <hi>
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>emper doleat paenitens, &amp; de <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>olore gaudeat;</hi> Let the penitent <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>erſon alwaies mourn, and rejoyce <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> that mourning; agreeing with <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>e rule of our Saviour, <hi>Bleſſed are <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hey that mourn, for they ſhall <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e comforted.</hi>
+            </p>
+            <p>Nay, I lately heard it not with<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>t horrour; that ſome men, in out<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ard appearance of great ſanctity, <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e hold an opinion, that it is a <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ult in godly men to pray for par<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n of ſin, (all ſinnes being pardon<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> in Christ before they pray) con<g ref="char:EOLhyphen"/>trary
+<pb facs="tcp:135425:7"/> to the prayer of our Saviour <hi>Forgive us our treſpaſſes.</hi> Nei<g ref="char:EOLunhyphen"/>ther <hi>M<hi rend="sup">r</hi> Peacock,</hi> nor any of thoſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> godly Divines that came to comfo<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> him, knew this kinde of Doctrine neither we, nor the Churches of Go<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> till within theſe few late unhapp<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> dayes.</p>
+            <p>What will become of our reform<g ref="char:EOLunhyphen"/>ed Religion, ſtreaming down to <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> in the blood of ſo many Martyr<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> if God by a miracle of mercy ſhou<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> not ſhorten theſe our miſerab<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> dayes? For whiles ſome are takin<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> from us the Ten Commandement<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> others, the Lords Prayer, there <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> ſcarce any thing left us of Christ<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>anity but our Creed, and how lo<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> we ſhall enjoy this the Lord in He<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>ven knowes. For ſo long as t<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> civill ſword of warre devoures <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> much Protestants blood from wit<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>out, and a worſe civill warre ſinne and ſeparation, deſtroyes
+<pb facs="tcp:135425:7"/> many Protestant ſouls from within, <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e may juſtly feare that we ſhall ei<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>her want ſound Orthodox Prote<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ants to maintain it; or we ſhall <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ant a Creed for them to main<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ain.</p>
+            <p>I ſhall, for concluſion, deſire that Reader into whoſe hands this enſu<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>g diſcourſe ſhall fall, to obſerve <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hree things concerning <hi>M<hi rend="sup">•</hi> Pea<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ock,</hi> a man whom I well knew, <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nd bleſse God that ever I knew <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>im.</p>
+            <p n="1">
+               <hi>1.</hi> That the foreſt and ſharpeſt <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>fflictions doe very often befall the <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eareſt and choiſeſt ſervants of God: I mean, not outward and temporall <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>fflictions, common to good and <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ad: but inward and ſpirituall af<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ictions, and the heavieſt of theſe <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>pirituall deſertions, whereby God <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ithdrawes his glorious counte<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ance from his children: and Sa<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>an in liew thereof, ſhews them his
+<pb facs="tcp:135425:8"/> ugly viſage, thereby convincing a<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ſecure world. That it is no eaſy matter to goe to Heaven, and tha<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the ſafeſt and ſureſt way to it, is to ſayl by the gates of Hell. If th<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> righteous can ſcarcely be ſave<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <hi>(ſaith the Apoſtle)</hi> where ſhal<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the wicked and ſinner appear?</p>
+            <p n="2">
+               <hi>2.</hi> That the deepeſt humiliation of Gods children, doe uſually deter<g ref="char:EOLunhyphen"/>mine in the higheſt conſolations And hereby the wicked, who like ra<g ref="char:EOLunhyphen"/>vening wolves hunt after ſuch op<g ref="char:EOLhyphen"/>portunities, doe miſse of their prey and returne aſhamed when they con<g ref="char:EOLunhyphen"/>ſider what end God hath made. An<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> thus it fell out with <hi>M<hi rend="sup">r</hi> Peacoc<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> here.</p>
+            <p n="3">
+               <hi>3.</hi> Laſtly, Though a ſpiritua<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> deſertion be the higheſt afflictio<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> that befalls Gods childe; yet it diſ<g ref="char:EOLunhyphen"/>covers in him the greatest ſincerit<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> of an upright heart; For at ſuch time he is ſo farre from hiding h<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <pb facs="tcp:135425:8"/> ſinnes, that he cares not what <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ame he puts upon himſelf, ſo God <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ay have glory. For in a ſpi<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>tuall deſertion, though the ſoul of Chriſtian be extreamly diſtreſsed <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>rough the terrour of ſinne; yet at <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>he ſame time hath it a true touch <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> grace, though not of the comforts <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>f it: like iron touched with the <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>oad-ſtone, it ſtands directly North<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ard, though with much tremb<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ng: So doth the ſoul of a Chriſti<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n stand directly Heaven-ward in <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>his helliſh agony: and the abſence <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>f God and of his conſolations, is <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>he cauſe of thoſe bitter convulſion<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>its in the ſoul. And aſsoon as e<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>er the comforts of grace ſhine upon <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t, thoſe former tremblings of heart for grief, are preſently changed in<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o leapings for joy; juſt as the ſame <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>prinkles of the face, which ſerve for <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rying when the heart is grieved, <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>erve for laughter when it is filled
+<pb facs="tcp:135425:9"/> with joy. This was the caſe <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <hi>M<hi rend="sup">r</hi> Peacock,</hi> in this manner h<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> grieved, in this manner he rejoyced and this happy iſsue God made of h<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> bitter afflictions. So that amid<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the numerous and various afflicti<g ref="char:EOLunhyphen"/>ons of Gods dear Saints and Chil<g ref="char:EOLunhyphen"/>dren, this concluſion of the Pro<g ref="char:EOLunhyphen"/>phet <hi>David</hi> remaines ſure and firm <hi>Mark the upright man, and be hold the juſt, for the end of tha<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> man is peace.</hi> So I reſt,</p>
+            <closer>
+               <signed>Thine in the Lord <hi>E. B</hi>
+               </signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:135425:9"/>
+            <head>M<hi rend="sup">r</hi> 
+               <hi>PEACOKS</hi> Viſitation.</head>
+            <p>
+               <seg rend="decorInit">M</seg>Aſter <hi>Peacock,</hi> the ſer<g ref="char:EOLhyphen"/>vant of God, in the beginning of his vi<g ref="char:EOLhyphen"/>ſitation, for the ſpace of two weeks and foure dayes, was full of moſt Heavenly con<g ref="char:EOLhyphen"/>ſolations; ſhewing by ſweet me<g ref="char:EOLhyphen"/>ditations, and gracious ejaculati<g ref="char:EOLhyphen"/>ons, the entertainment he found with his God in his ſicknes, with whom he ſo much deſired to be acquainted in his health. We are (ſaith one comming to viſit him) miſerable comforters. <hi>Nay</hi> (ſaith he) <hi>Ye are good, for this
+<pb n="2" facs="tcp:135425:10"/> is the priviledge even of Gods chil<g ref="char:EOLunhyphen"/>dren, that their very preſence af<g ref="char:EOLunhyphen"/>fords comfort.</hi> Sometimes h<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> craved pardon for his actions, &amp; for the circumſtances by them badly obſerved: otherwhile h<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> deſired to have ſome matter gi<g ref="char:EOLunhyphen"/>ven him to meditate upon. Fi<g ref="char:EOLunhyphen"/>nally he ſaid, his hope was firm<g ref="char:EOLunhyphen"/>ly ſetled on the rock <hi>Chriſt Jeſus</hi> He hoped that the Lord woul<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> give him a place, though it wer<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> in the loweſt room of his Saints And he thanked God he had n<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> trouble of conſcience, the Lor<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> did not ſuffer Satan to vex him In ſo much that ſome ſeeing hi<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> great comfort, feared leſt h<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> would be overtaken with ſorrow before his death: he much re<g ref="char:EOLunhyphen"/>joyced that the Lord had ſo diſ<g ref="char:EOLunhyphen"/>poſed of him, that he had ſee<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> his frie<g ref="char:cmbAbbrStroke">̄</g>ds in the Countrey. Her<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> firſt was his yeelding unto deat<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <pb n="3" facs="tcp:135425:10"/> ſuſpected, and his hoped reco<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ery doubted. Calling ſome of <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>is friends aſide, <hi>I thought</hi> (ſaith <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e) <hi>I had been in a good eſtate, but <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> ſee it now farre otherwiſe: For <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>heſe things my conſcience layes a<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ainst me: Firſt, I brought up my <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>cholars in Gluttony, letting the<g ref="char:cmbAbbrStroke">̄</g> eat <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>heir fill of meat, when they mealed <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ith me.</hi> This ſome endeavoured <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o pull out, by putting into his minde, 1. The preventing of ma<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y inconveniencies. 2. His well known moderation. 3. The great care he took for good con<g ref="char:EOLhyphen"/>ference, when they were at table with him. <hi>But</hi> (ſaith he) <hi>while I was talking, they did undoe them<g ref="char:EOLhyphen"/>ſelves. And further, I did unad<g ref="char:EOLhyphen"/>viſedly expound places of Scripture at the table many times; and for theſe I feel now a Hell in my conſci<g ref="char:EOLhyphen"/>ence. Again, I have procured my own death, by often eating like a beaſt,
+<pb n="4" facs="tcp:135425:11"/> when I came juſtling up and dow<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> to my friends in the Countrey; An<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> now I ſee before my face thoſe diſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>es of meat wherewith I clogged m<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> ſtomack.</hi> Well (ſaith one to him If all the things you accuſe you ſelf of were undone, would yo<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> doe them again? <hi>Nay:</hi> why the<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> doubt not <hi>but a Reprobate woul<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> deſire to be ſaved, if a deſire woul<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> ſerve the turne:</hi> indeed he ma<gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> have a deſire, but of bare willing<g ref="char:EOLunhyphen"/>nes, not with an intent an<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> purpoſe in uſing of the means Another time a worthy friend o<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> his asking him how he did: h<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> cryed out, <hi>Sinne, Sinne, Sinne</hi> What doth any lye on your con<g ref="char:EOLunhyphen"/>ſcience? <hi>Yea.</hi> What? <hi>My unconſi<g ref="char:EOLunhyphen"/>deratenes, I did eat too much of ſuc<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> meat to breakfaſt ſuch a morning <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+               </hi> my ſelf being an eye-witnes o<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> his great abſtinence, could no<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> chooſe but admire the tenderne<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <pb n="5" facs="tcp:135425:11"/> 
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>f his ſelf-accuſing conſcience. Well (ſaid he) God be thanked <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>here is no greater. As we muſt <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ot extenuate our ſinnes, ſo nei<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>her muſt we too much aggra<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ate our ſinne. Let drunkards <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nd gluttons have thoſe terrible <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>orrours. <hi>I thank God I never con<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>inued in any known ſinne againſt my conſcience.</hi> He was willing that he ſhould pray with him: kneeling down he ſaid, he was <hi>
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hen uncapable of prayers.</hi> After<g ref="char:EOLhyphen"/>ward he kneeled down of his <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>own accord: ſhortly after he <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>roke out into ſuch ſpeeches, <hi>A damnable, wretched</hi> &amp;c. theſe are nor your words (ſaith one) you cannot deny but you have had good experience of Gods mercies. <hi>I cannot.</hi> Then be comforted, for whom he loveth once, he loveth to the end. Yet Satan took ſuch advantage of his infirmities, that
+<pb n="6" facs="tcp:135425:12"/> though he could finde ſome com<g ref="char:EOLhyphen"/>fort, yet no particular aſſurance. You have lived profitably (ſaid one) <hi>I have endeavoured.</hi> You are now humbled, and the Lord looks that you ſhould ask mercy. M. <hi>Dod</hi> was ſent for, who being come, they were private awhile, afterwards we comming in to them, M. <hi>Dod</hi> put him in minde of Gods kindenes: whereof he ſhewed to him foure parts. 1. To take ſmall things in good part. 2. To paſſe by infirmi<g ref="char:EOLhyphen"/>ties. 3. To be eaſily intreated. 4. To be intreated for the great<g ref="char:EOLhyphen"/>eſt.</p>
+            <p>Sir, there is now in you the image of the old <hi>Adam,</hi> ſin and ſorrow: there ſhall be in you the image of the new, holines and happineſſe. The life to come may be ſet out by three things. 1. The eſtate of it ſelf, happines,
+<pb n="7" facs="tcp:135425:12"/> holines, and glory. 2. By the <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> company, every one ſhall <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>e you better then any one, e<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>n the beſt, can love you here.</p>
+            <p>The place.</p>
+            <p>There are three differences be<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>een the afflictions of the good <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>d of the bad. 1. In the cauſe, <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>r they come to the good for <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ods love. 2. In the meaſure, <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> farre as they need, and are a<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>e to bear. 3. In the end, for <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>eir good.</p>
+            <p>Of thoſe former doubts we <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>terwards heard not a word <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>om him. Upon the Sabbath<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>y he deſired to be alone: after <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>on he was fearfully troubled. <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> his countenance appeared evi<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ent tokens of a ſorrowfull <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>inde, born up with a weak <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ody; his ſpirit was wounded, <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>tan had foiled him. Thoſe his <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>rrible wreſtlings with tentati<g ref="char:EOLhyphen"/>ons,
+<pb n="8" facs="tcp:135425:13"/> gripes of conſcience, a<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> reſtles terrours, none can unde<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>ſtand, (much leſſe expreſſe but he which felt them. S<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>tan had winnowed him, an<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ſhewed him nothing but chaff<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> His tender conſcience w<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> goared with the fiery dar<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> of the Devil, pointed wit<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the edge of ſinne, an<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ſenſe of Gods heavy wra<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> As through a falſe glaſſe, th<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> dazled eye of his aſtoniſh<g ref="char:EOLunhyphen"/>ed and amazed ſoul, coul<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ſee nothing but hideouſl<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> appearing ſinne, and th<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> terrible image of death an<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> damnation. He had drun<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> deeply of the cup of th<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> dreggs of Hell. His ad<g ref="char:EOLunhyphen"/>verſary had repreſented un<g ref="char:EOLunhyphen"/>to him his once moſt gra<g ref="char:EOLunhyphen"/>cious God, now as a moſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ſevere Judge diſpleaſed, an<g ref="char:EOLunhyphen"/>gry,
+<pb n="9" facs="tcp:135425:13"/> and chiding with <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>im; yea yeelding him up <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nto his clawes: that ſo by <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>his deadly ſtratagem, he <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ight take from him all <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ope of help that way, and <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o not onely ſtop the ſen<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ible flowing of Gods grace; <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nd cut the chains of Gods <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ove, whereby he had tyed <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>im, and would draw him <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>fter him, but finally break <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>is Chriſtian heart. Oh <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hat you had ſeen, or that we that were preſent had had eyes to have ſeen his <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eeming forlone ſoul. What with barkings of conſci<g ref="char:EOLhyphen"/>ence, and with the too heavy burthen of ſinne, vvaves of fearfull thoughts, <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>luſtering blaſts, and ſur<g ref="char:EOLhyphen"/>ging ſtorms of Gods hea<g ref="char:EOLhyphen"/>vy diſpleaſure, he vvas
+<pb n="10" facs="tcp:135425:14"/> toſſed, turmoyled, daſhed aga<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> the rocks of deſpaire, and m<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> then in danger of his ſouls ſ<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> wrack: happy were we if <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>ther through frowardnes, <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> blindenes of judgement, we inconſiderately paſſe by, or p<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>phanely deride Gods jud<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>ments, by thinking that they <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>ther happen caſually, or by f<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>getting of them ſuddenly. <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> we could but rightly diſcerne <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> we ſhould finde nothing m<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> profitable, then to have the <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>mage of this gracious (thou<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> now afflicted) ſoul in our hear<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Hereby we may ſee that t<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> righteous being ſcarcely ſave<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <hi>there is no place for the wicked a<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> ungodly to appeare.</hi> And tru<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> we may think that God ſent it <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>ven for our ſake, that we (w<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> whom it is too uſuall to da<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> with the Lord) might kno<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <pb n="11" facs="tcp:135425:14"/> that it is <hi>a fearfull thing to fall in<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>o his hands.</hi> Our faith is then <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ryed in earneſt, when as the Lord hideth his face from us. For if we love God above all <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hings, it cannot be but upon the <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>oſſe of the reliſh of his favour, <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>r taſte of his diſpleaſure, our <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ouls ſhould be in bitternes, prick<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d, tormented, wounded, thruſt <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>horow, yea, and ſwallowed up with deſolation. It is a wonder of the world, how we care<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ully will ſeek phyſick, uſe dyet, by any means to avoid a <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>odily pang, and how careles we <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>re of the unſupportable fits of <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>he ſouls mortall ſicknes. It is <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ot in our power to apprehend <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>race when we will, and a hard<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>r matter is it then we can con<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eive, to lift up a poor ſoul caſt <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>wn with the ſenſe of Gods wrath. If a violent paſſion may
+<pb n="12" facs="tcp:135425:15"/> ſo farre tranſport the min<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> what may we think of this re<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>les trembling, when the ſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> after long toſſings, ſeeth it <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> drowned, and wholly ov<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>whelmed with the deluge <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> ſorrow, proceeding from the <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>verlaſting threats, and ſha<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> and confuſion of face in <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> preſence of the Almighty Conſider the body loaden f<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> a burthen, neither portable <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> evitable; and thence gather <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> ſtranglings of an overladen ſo Conſider a man ready to <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> from an high Tower unto <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Earth; and thence gather <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> eſtate of another falling fr<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> Heaven to Hell with a ſpiritu<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> ruine. Conſider a childe, wh<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> the mother hideth her face fr<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> it, and terrifieth it with a B<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>boe; and herein take view of <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> eſtate of a poor Chriſtian (wh<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <pb n="13" facs="tcp:135425:15"/> chiefeſt happines having therein <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>onſiſted, (to wit) in being joyn<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d, and united to his Heavenly <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ather, having now loſt his pre<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ence, or being affrighted with <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>he Devil, as if he were ready to <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>y hands on him. Conſider <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>he eſtate of a debtor, caſt off by <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>is beſt Creditours: and gather <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hat of a Chriſtian being banker<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ut with his God. Conſider <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>he eſtate of a man, once in fa<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>our, afterwards adjudged to <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eath by a Prince, without hope <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>f pardon or repriving: and ga<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>her that of a Chriſtian, who <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>fter his citation and arraign<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ent at the Tribunal ſeat of God, <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ands condemned, and is whol<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> deprived of obtaining pardon, <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nd delivered into the hands of <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>he Devil. The Lord needs <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ot to ſeek wilde beaſts to puniſh <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s, or ſuch like cruell executio<g ref="char:EOLhyphen"/>ners
+<pb n="14" facs="tcp:135425:16"/> of his wrath to torment u<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> he may finde enough within us all the furyes and Devils cann<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> invent a more greivous tormen<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> One by it apprehended needet<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> not more accuſers or torment ours. His many never-though<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> of ſinne (as if he ſtirred a neſt <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> waſps) come buzzing about h<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> eares, and as a man indebte<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> once laid hold of, make him faſt<g ref="char:EOLunhyphen"/>er daily: his loving friends ma<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ſtand by the priſon and call him but he being faſt fettered, canno<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ſtirre forth. You ſhall ſee hi<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> now in his purgatory, (not th<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> papiſticall ſinne-ſatisfying fict<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>on, the Popes jayle) but that h<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> fiery furnace wherein the Lo<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> trieth his metall, whether it <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> good or reprobate. And ſu<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>poſe that he had died at t<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> worſt (as in the Lords juſtice <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> might, to the hardening of tho<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <pb n="15" facs="tcp:135425:16"/> that will not be ſoftened) As no man ſhould rather judge him by <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>he inch of his death, then the <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ength of his life; ſo I for my part neither did in him, nor doe <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n my ſelf ſo much feare his death, as I did, and doe deſire his life. You may obſerve the <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ourſes which God taketh in vi<g ref="char:EOLhyphen"/>ſiting his children to be divers: ſome are comfortable and with<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ut any great admixture of diſ<g ref="char:EOLhyphen"/>comfort: others heavy, but with<g ref="char:EOLhyphen"/>out horrour: others horrible, <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>et all of them are in the iſſue gracious. But to leave any fur<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>her digreſſion, and to come a<g ref="char:EOLhyphen"/>gain to the matter in hand.</p>
+            <p>When one came unto him, he <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rake out into theſe words, <hi>Oh <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ow wofull and miſerable is my e<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>tate, that thus muſt converſe with <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>el-hounds!</hi> He being with theſe words ſtrangely moved, went
+<pb n="14" facs="tcp:135425:17"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="15" facs="tcp:135425:17"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="16" facs="tcp:135425:18"/> to call ſome of his beſt ab<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> friends to comfort him. T<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> them he complayned, <hi>that t<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Lord had curſed him.</hi> Being d<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>manded how he knew it: he an<g ref="char:EOLunhyphen"/>ſwered, <hi>Why! the event ſhewet<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> it.</hi> It being replyed, The<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ſuch and ſuch were curſed: h<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> anſwered, <hi>I have no grace.</hi> Ho<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> doe thoſe then? they once ha<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> none. <hi>I was a fooliſh glorious H<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>pocrite; It is against the courſe <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Gods proceeding to ſave me, <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> hath otherwiſe decreed, he canno<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> Put your truſt in God. <hi>I canno<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> no more then an horſe.</hi> Doe yo<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> deſire to beleive? <hi>No more the<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> a poſt, then an horsſhoe.</hi> I kno<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> you cannot deny but that yo<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> have ſought Gods glory. <hi>N<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> ſincerely.</hi> There is a ſecret mi<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>ture of pride and hypocriſy, <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>ven in the beſt. <hi>I have no mo<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> ſenſe of grace then theſe curtain
+<pb n="17" facs="tcp:135425:18"/> 
+                  <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>en a gooſe, then that block.</hi> Let <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>he teſtimony of your life paſt <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>omfort you, eſpecially in the <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>lling of a Tutour. <hi>I did the <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ſineſſe thereof perfunctorily, when <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> handled hard Authours, I came <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ten unprepared, and read ſhame<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>lly.</hi> Be of good courage, and <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>e Lord will comfort your <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eart. <hi>It is ended, there is no <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ch matter.</hi> Why doe you think <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o? You ſhall ſee the event, God <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ill yet bring it to paſſe. Tuſh, <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ſh, trifles. What doe you think <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>f your former Doctrine? <hi>Very <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ood.</hi> Let it comfort you. <hi>It <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>nnot.</hi> You deſire it could. <hi>If <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> might.</hi> There is nothing un<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>oſſible to God. <hi>Which ſtands with <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>is decree: Oh, oh, miſerable, and <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ofull, the burthen of my ſinne ly<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>th heavy upon me: I doubt it will <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>reak my heart.</hi> Behold your <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>omforts. <hi>Nothing to me, I pray
+<pb n="18" facs="tcp:135425:19"/> you hold your peace, doe not trou<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> your ſelf idly, you vex me, y<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> words are as daggers to my hea<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> Another time ſome of t<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> younger ſort ſaid to him, R<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>member, Sir, the good counſe<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> that you have given us heret<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>fore. <hi>Thoſe were ordinary.</hi> Y<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> may ſee many others in the li<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> eſtate. <hi>Not ſuch as mine.</hi> S<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> 
+               <hi>David. What doe you ſpeak to <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> of</hi> David? Good Sir, endeavo<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> to ſettle your minde; <hi>Yes, to pl<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> with hell-hounds.</hi> Will you pray <hi>I cannot.</hi> You were wont her<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>tofore. <hi>Yes, by a custom and va<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> glory.</hi> Suffer us to pray for yo<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <hi>Take not the name of God in va<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> by praying for a Reprobate.</hi> He you may ſee the glory of G<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> preferred before his own ſalv<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>tion, rather willing to have t<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> means of his ſalvation neglecte<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> then the Lord diſhonoured. Su<g ref="char:EOLunhyphen"/>
+               <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>er
+<pb n="19" facs="tcp:135425:19"/> us to pray for our ſelves. <hi>
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ook to it, you would now ſhew your <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>aculty in praying.</hi> Can you ſay, Amen? <hi>No, but in a certain ge<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>all faſhion.</hi> One prayed, and <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n the mean time he reſted moſt <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>uietly. <hi>I pray you</hi> (ſaith he, <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hen prayer was ended) <hi>Goe <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ence to bed, doe not trouble your <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>lves in vain.</hi> Let not the Devil <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>elude you, abuſing your minde <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nd tongue, I know you ſpeak <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ot theſe words. <hi>I wonder that <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ntelligent Scholars ſhould ſpeak <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hus.</hi> We are perſwaded you <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>re in as good eſtate as our ſelves <hi>Look how it is with your ſelves in <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ruth.</hi> One that watched with him, asked him, Sir, how can you diſcern this change by the <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>bſence of God, if you never en<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>oyed his preſence? <hi>I thought I <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ad it once, but now I ſee it is farre <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>therwiſe.</hi> But God deals with
+<pb n="20" facs="tcp:135425:20"/> you, as he dealt with the Churc<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <hi>Iſa.</hi> 54.7. He forſook it a whil<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> and hid his face from it, but I returned to it again, and ſo (<gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> doubt) the caſe ſtands with yo<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <hi>Never, add not affliction to the a<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>flicted; Oh me wretch!</hi> groani<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> pitifully. Hope no worſe <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> your ſelf, then we doe of yo<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> All of us have ſeen cleerly whi<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> way your carriage was ſtill ſen<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> after the ſpirit: and we are aſſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>red that you will come to t<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> ſpirit, howſoever you ſeem t<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> have loſt your way. To a<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> particulars he would anſwer, <hi>deſire grace generally, I did go<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> outwardly, all hypocritically.</hi> O<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> asked him, Doe you love ſuch a one? his moſt dear, and wo<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>thy to be dear friend. <hi>Yes.</hi> Why <hi>For his goodnes.</hi> Why then you a Gods childe, for by this w<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> know we are tranſlated fro<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <pb n="21" facs="tcp:135425:20"/> death to life, becauſe we own <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e brethren. Many like forcible <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>oofs he would ſhift off with is former evaſions, and after<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ards became more wary a<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ainſt himſelf, either loth to <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rant any thing, or granting it <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>aggeringly, or, <hi>what then?</hi> 
+               <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>aring leſt he ſhould be preſ<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ed, he wiſhed, <hi>that ſome were <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ut in minde,</hi> 1. <hi>Of their great care <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>or building, and too ſmall care for <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>cholars in them.</hi> 2. <hi>Their gi<g ref="char:EOLhyphen"/>ving ſo long leave of abſence from <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>he Colledge,</hi> and deſired amend<g ref="char:EOLhyphen"/>ment.</p>
+            <p>After noon came a worthy Governour of a Colledge in our Univerſity,<note place="margin">Dr <hi>Aye<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </hi> Provoſt of Queens Colledge.</note> and requeſted him <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o be of good comfort, and to pluck up his ſpirit. <hi>I cannot.</hi> Why can you not? <hi>Becauſe I have <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>o grace, no more then a Back<g ref="char:EOLhyphen"/>ſtock.</hi> Why doe you think ſo?
+<pb n="22" facs="tcp:135425:21"/> 
+               <hi>By this affliction.</hi> Doe you deſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> grace? <hi>I cannot.</hi> (He ſpake m<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ſtrongly) <hi>I can as well leap ov<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> the Church.</hi> But are you <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> ſorry that you cannot deſire it <hi>I cannot.</hi> Would you not be Heaven? <hi>I would not.</hi> O<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ſtanding by, ſaid, The De<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> himſelf would, if he could. <q>B<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> the way, you ſhall have the <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>pinion of a much reſp<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>cted Miniſter appoſite heret<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> which he gave in private. <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> proud man, ſaith he, w<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> ſcorne to ſeek any good fro<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> his enemy: ſo the Devils pri<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> will not let him think himſe<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> beholding to God for Heaven if he might get it.</q> You hav<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> (ſaid one) the teſtimony of faith you love the Brethren. <hi>I di<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> not.</hi> Doe not you love us? <hi>No</hi>
+               <note n="*" place="margin">This concluſio<g ref="char:cmbAbbrStroke">̄</g> was faſte<g ref="char:cmbAbbrStroke">̄</g>
+                  <g ref="char:EOLhyphen"/>ed on him before, which now he ſtufts off.</note> The Devil now ſeeth he ſhoul<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> be caſt into ſtraits, if yo<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <pb n="23" facs="tcp:135425:21"/> 
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ould grant this; what is it that <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>oth moſt trouble you? <hi>I un<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rtook too much upon me fooliſhly: had gotten a little Logick and <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>reek, and meanly instructed in <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e rules, did ſet my ſelf to read to <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>holars; and afterwards under<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ok other buſines, which diſtracted <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>y minde and body from them, I <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ave deſtroyed a thouſand ſouls.</hi> 
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ou may ſee the falſehood of <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>m that ſuggeſteth this unto <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ou: you never had a thouſand: <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e puts a falſe glaſſe before you. <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>he good effects of your pains <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ppears in many of your Scho<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rs. <hi>Oh they were of themſelves <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>apable.</hi> Name one in whom <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hey doe not? <hi>There is one.</hi> (point<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ng at a Maſter of Arts there pre<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nt) He juſtified his care of <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>im, and gave thanks to God <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hat ever he came to him. <hi>It is <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ot ſo, I did fooliſhly.</hi> You con<g ref="char:EOLhyphen"/>feſſe
+<pb n="24" facs="tcp:135425:22"/> you did fooliſhly, therefo<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> not of malice. Again, co<g ref="char:cmbAbbrStroke">̄</g>ſider wh<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> would have become of many them if you had not taken the<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <hi>Better, farre better.</hi> All in the C<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>ledge know the contrary. <hi>Bu<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> feel it.</hi> It is falſe, believe n<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the Devil. <hi>It is too true.</hi> Wh<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> vvill you make amends? G<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> will give you your hearts deſir<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <hi>Never.</hi> Are you ſorry that <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> vvill not? <hi>No, there is no grace my heart: it is dead.</hi> Such w<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <hi>Davids</hi> caſe. <hi>What doe you co<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>pare me with him?</hi> Behold Chri<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> himſelf. <hi>Nothing to me.</hi> Go<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> can make his death availabl<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <hi>He cannot.</hi> He is omnipoten<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <hi>In me he cannot, becauſe <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> ſtands with his purpoſe.</hi> Who<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> God loveth once, he loveth t<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the end. <hi>But he did never love m<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> You have taſted of his love. <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <hi>deceived my ſelf in a certain vain
+<pb n="25" facs="tcp:135425:22"/> 
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>lory: I expoſed my head to many <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hings, outwardly all.</hi> You could <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ay the Lords Prayer, and there<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> call him Father. <hi>Hypocriti<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ally I was wont to enquire of Ma<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ter</hi> Maſon, <hi>what was meant by <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>bba-father; rather in curioſity, <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hen truly to be edified.</hi> God will <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ive a good iſſue. <hi>Never, I <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ave no ſenſe.</hi> We will pray <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ith you. <hi>Doe not diſhonour <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>od.</hi> It is well that you will <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ot have God diſhonoured: <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ere he ſticked, ſaying, <hi>I pray <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ouble me not with diſtinctions.</hi> 
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>fter came one, who with ve<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ement action of body, preſ<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d and urged him to truſt in <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>od. <hi>I cannot</hi> (ſaid he) <hi>I can<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>t, he will not have me ſaved, <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s ſentence is paſsed.</hi> Doe <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ou deſire to be ſaved? <hi>
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>o.</hi> Do you deſire to deſire? <hi>
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>o.</hi> Would you be damned?
+<pb n="26" facs="tcp:135425:23"/> 
+               <hi>No.</hi> Look at the ſinnes of ot<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> men as great as yours, and <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> they are ſaved. <hi>They were good a godly, they found grace: here is <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> difference, my ſinnes are horribl<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> he repeated that towards <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Scholars. All of us know y<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> took pains. Outwardly y<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> did your beſt. <hi>No.</hi> I ſee no<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> what it is, you ſtrictly look ba<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> to your own actions, as a Ju<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>ciary, who will none of Go<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> mercy, and now he hath juſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> met with you, your judgem<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> is juſt. Theſe words affec<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> him ſtrangely: another wil<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> him to look to it, it ſeemed n<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Popery. Doe you hope to <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> juſtified by your merits? <hi>I f<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> to be damned for my ſinnes.</hi> T<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> other asked, whether he cou<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> ſay, Amen? <hi>No.</hi> Have y<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> no tongue? <hi>What is that to <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> purpoſe?</hi> Name Jeſus, <hi>I can<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi>
+               <pb n="27" facs="tcp:135425:23"/> 
+               <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> I had your tongue in my hand, <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> would make you ſpeak. Turn<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>g his ſpeech to a friend preſent, <hi>
+                  <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>h</hi> (ſaith he) <hi>if you did but feel my <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>eif but an houre, you would have <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>mpaſſion.</hi> The other reply<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d, If you were in the fire you <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ould wiſh to get out. <hi>I had ra<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>er be in the fire then here.</hi> I will <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ay for you. <hi>Sinne not.</hi> Let <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e fault be mine.</p>
+            <p>Although my purpoſe was <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rely to relate the paſſages of <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>is gracious mans viſitation, and <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> referre to your ſpirituall eye <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hat you could tracke and finde <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>erein, yet let your gentle con<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>uction withhold from me the <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> ſerved cenſure of bold blind<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>s, in that now and then I point <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> ſome things which your <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ick ſight may ſooner or bet<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> apprehend. The Devils ma<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ious policy was great toward
+<pb n="28" facs="tcp:135425:24"/> him, in that he aſſaulted h<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> moſt ſtrongly in that, whi<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> might and ought to have be<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> his greateſt comfort. Again, ſaw that the opinion of the Ph<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>ſician helps ſomewhat in bod<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> maladies or diſeaſes, whereas <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> that his eſtate, his ſoul remai<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>ed as it were uncapable of co<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>fort from the ſouls Phyſicia<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> He much reſpected ſome fe<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> He dolefully poured out his ſo in the boſome of a well will on this manner; <hi>I took upon <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> too proudly many things, and be<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> negligent, performed nothing: c<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>ſed be the day when I took Schol<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> If I had not taken them, I had b<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> happy; with a great flouriſh I w<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> stirring many wayes, and in <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> mean ſpace left the eſsence of <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> calling, teaching Scholars.</hi> Wh<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> ſaith the other, what ſhall I n<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> doe, when I ſee you thus toſſe<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <pb n="29" facs="tcp:135425:24"/> 
+               <hi>W<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ll, for I was an Hypocrite, and <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>w therefore there is no hope of <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>mfort for me in Gods preſence: have no ſenſe of it.</hi> The ſunne <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> in the firmament, though it <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ay be hid in a cloud. <hi>This <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>mpariſon agreeth not to me.</hi> What <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>en would you counſell me to <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e? <hi>Abide within the bounds of <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ur calling: take not too much on <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>u, and the Lord will bleſse you.</hi> 
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ill it avail me to hear ſermons. <hi>
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>es, if you mean to be ſaved.</hi> What <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ood ſhall I reap thence? <hi>No<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ing from the bare hearing. oh, <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>is heavy lumpiſh fear hath oft<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>mes ſhaken me, and now it hath <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>oken out.</hi> Another ſaid, you <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ow the poor in ſpirit are bleſ<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d. <hi>I am not ſuch.</hi> You ſee you <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e empty of all good, you feel <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ur burthen. <hi>I pray you goe your <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ayes.</hi> He turned his head aſide, <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d ſtopped his eares: what
+<pb n="30" facs="tcp:135425:25"/> though you have done but lit<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> good, if you have but give<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> cup of cold water, <hi>&amp;c.</hi> He thr<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>ed him away with his foot, <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>ther (as ſome thought) be<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> troubled with his ſhrill voi<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> or (as he replyed) through <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Devils ſubtilty. T<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>at even he was grievouſly afflicted Su<g ref="char:EOLunhyphen"/>denly he brake out; <hi>Oh if Go<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> The ſtanders by endeavoured cheriſh this good motion, and ſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> to him, He will give you gra<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> 
+               <hi>I doubt it.</hi> Then preſently <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>ter he uttered this prayer, <hi>God, give me a ſpark of grace, <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> enlarge my heart that it may app<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>hend it.</hi> He asked a friend, h<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> he might give ſatisfaction <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> ſome ſpeeches.</p>
+            <p>M<hi rend="sup">r</hi> 
+               <hi>Dod,</hi> although he depa<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>ed on Saturday, and had th<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> an unſeaſonable journey, <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> being requeſted by letters,
+<pb n="31" facs="tcp:135425:25"/> 
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rned on Tueſday following. <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e at the firſt ſight ſtarted up, as <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eſirous to meet him, <hi>Oh</hi> M<hi rend="sup">r</hi> 
+               <hi>Dod,</hi> 
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d in friendly ſort complained, <hi>have no grace.</hi> I will not (ſaith <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <hi rend="sup">r</hi> 
+               <hi>Dod</hi>) beleive every one that <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ith he hath grace, nor every <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>he that ſaith he hath none: An<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>wer the Devil as Chriſt did. A <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>an muſt not alwaies be led by <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nſe; Let us enquire by the ef<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>cts, and it may ſuffice, if we can <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>nde but one, yea the leaſt it is <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ough. You forgive your e<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>emies, and love them, and <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ould doe them no hurt if you buld? <hi>Yes.</hi> Then your ſinnes <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e forgiven. An Hypocrite <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ay give alms and faſt, but this <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e cannot. <hi>That is a ſmall matter.</hi> think it to be a great one, yea, <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ch an one that I had need to <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ay for; That is put for a rea<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>n in the Lords Prayer, and if
+<pb n="32" facs="tcp:135425:26"/> Chriſt had thought any mo<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> forcible, he would have giv<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> it. <hi>Sir, that is true, but in th<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> that are elected.</hi> Doe not y<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> put an exception, where G<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> hath not. I would not hand you as I doe, but that I kno<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> your eſtate: I come hither cheriſh you, you love your go<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> friends? <hi>I cannot.</hi> Had you r<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>ther that bad or good men ſhou<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> be with you? <hi>Good.</hi> Yet y<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ſay, you doe not love them: <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> ſow will be with ſwine: There <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> no fellowſhip between light a<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> darknes. Would you belie<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> your ſelf, or the Phyſician touc<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>ing the eſtate of your body? <hi>T<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Phyſician.</hi> Believe not your ſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> then, now you are ſick, yet ſh<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> be reſtored. <hi>It is impoſſible.</hi> Wh<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ſo? If you had ſinned ſo mu<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> as you could, you could n<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> have ſinned ſo much as <hi>Ada<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi>
+               <pb n="33" facs="tcp:135425:26"/> yet he is in Heaven. <hi>It repented <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>m.</hi> Doth it not you? <hi>No.</hi> Doth <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>our ſicknes or ſinne more trou<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>e you, or had you rather <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ve grace, or health? <hi>Grace.</hi> Well then. <hi>But it cannot be.</hi> 
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>od will waſh you. <hi>I have <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> water.</hi> God will bring it <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ith him. <hi>He hath denyed it.</hi> 
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e hath offered it by his Mi<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ſters, which are as the buc<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ets to draw and pour it. <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ou muſt not look now that <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>od ſhould come to y<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> him<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>lf. Doe you think it a ſmall <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>vour of God that ſo many <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ood friends come to you? <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>od did ſend none to comfort <hi>
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ain</hi> or <hi>Ahithophel.</hi> Think of that <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ying of <hi>Manoahs</hi> wife, If the <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ord would kill us, he would not <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ave ſhewed us all theſe things, <hi>
+                  <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>dg.</hi> 13.23. Behold the proper<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>es of Chriſts ſheep: They are
+<pb n="34" facs="tcp:135425:27"/> 1. Weak, 2. Sick, 3. Brok<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> 4. Driven away, 5. Loſt, <hi>EZ<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+               </hi> 34.4. You are ſuch, ſee the<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>fore your comfort, he <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 1. ſtrengthen, 2. heal, 3. binde <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 4. bring again, and 5. ſeek y<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> You finde your ſelf a great de<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>tor: the Lord hath pardone<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> onely he looks that you ſho<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> come to him for an acquittan<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> This fight is not yours, but <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Lords, 2 <hi>Chron.</hi> 20.20. put y<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> truſt in him. If you ask me, h<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> may I? it followeth, Beleive <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Prophets, and you ſhall proſp<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> You may remember that Ch<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> did pray for <hi>Peter,</hi> that his fa<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> might not fail, but it failed <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>terwards. How came that <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> paſſe? That failing did rath<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> ſtrengthen it. For whereas he g<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>ried that if al ſhould deny Chri<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> yet he would not: had he be<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> asked, Doeſt thou promiſe t<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <pb n="35" facs="tcp:135425:27"/> 
+               <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> thi<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e own ſtrength, or by <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> he muſt have anſwered, <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ine, f<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> 
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>therwiſe he would <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ve req<gap reason="illegible" resp="#KEYERS" extent="4 letters">
+                  <desc>••••</desc>
+               </gap>ed his help, making <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>m hereby to ſeek to Chriſt for <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e ſtrengthening of his faith. <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>his happeneth to you, becauſe <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>u credit the ſuggeſtion of <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rnall reaſon, and not the word <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ther. Oh the cunning of <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e adverſary! deal not with <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>m by cunning, but hold him to <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e Word, ſeek for ſtrength in <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>od to reſiſt him. You may <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e the Apoſtles in the tempeſt, <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> was from their weaknes that <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ey diſtruſted, yet of God that <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ey prayed. <hi>I cannot pray.</hi> Here <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hat S<hi rend="sup">t</hi> 
+               <hi>James</hi> ſaith, Is any man <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ck, <hi>&amp;c.</hi> afflictions further pray<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>, but moſt ſickneſſes hinder: <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>herefore behold your friends, <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hoſe mindes as the Lord hath <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>irred up to pray for you: ſo will
+<pb n="36" facs="tcp:135425:28"/> he alſo ſtirre up himſelf to he<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> them. Their prayers are your<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> yea, you have the prayers of m<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>ny which never knew you. A<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> as God ſaid to <hi>Cain,</hi> ſinne lyet<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> at the door, ready as it were <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> doe him an ill turne: ſo his pr<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>miſed bleſſing doth as it we<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> expect you. If your ſalvatio<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> were now in your own hand<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> it is likely you would yeild u<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> all: but your name is written i<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the heart of Chriſt. Sir, let m<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> watch with you this night. <hi>N<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> Why? becauſe it would hu<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> you. He (fearing the concluſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>on) ſaid, <hi>Here is a ſnatching a<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>gument: nay rather, I will not ſu<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>fer you, becauſe you would trouble m<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> In the morning M. <hi>Dod</hi> came <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>gain to him, and asking hi<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> how he did, he anſwered, <hi>wretc<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>edly, lamentably, abhominably no ſtamp of grace in me.</hi> Doe yo<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <pb n="37" facs="tcp:135425:28"/> deſire to be eaſed? <hi>Infinitely. Oh if God would give me a drop: I was ſo fooliſh that I would alwaies be doing ſome<g ref="char:EOLhyphen"/>thing, but did nothing well.</hi> I pray you tell me what was the calling of the good thief upon the croſſe? Doe not you think that God can put a diſtinction between his grace and our corruptions? Be<g ref="char:EOLhyphen"/>hold the Church ſometimes helples and hopeles, and <hi>Jo<g ref="char:EOLhyphen"/>nah</hi> in that his bed, God ſeeth you, though you ſee not him. <hi>But I feel horrour.</hi> Where miſery is, there is grace much more: Then e<g ref="char:EOLhyphen"/>ſpecially appeareth the ex<g ref="char:EOLhyphen"/>cellency of the Phyſician, when health is leaſt hoped. The Devil doth abuſe your minde and tongue againſt your ſelf: but doubt not,
+<pb n="38" facs="tcp:135425:29"/> the Lord will caſt down the ſtrong holds of carnall reaſon. Onely doe not ſuppreſſe that grace of God, which al<g ref="char:EOLhyphen"/>though it appeareth but ſmall as big as a mans hand, ye<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> it ſhall be increaſed into a<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> mighty rain, by which your dry ſoul ſhall be moiſtened. Chriſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> riſing again, did firſt appea<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> to <hi>Mary Magdalen</hi> that ſinner<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> after commanded her to tel<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> it firſt to <hi>Peter,</hi> which ha<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> denied him. See thence hi<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> mercy. The godly in thei<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> afflictions doe but forget thei<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> comforts; God helps thei<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> memory, helps all. Th<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> godly loſing his ſenſe o<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Gods favour, is like to <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> man that hath loſt his purſe<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> which if he could finde, h<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> were rich enough. But th<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> wicked cannot be brought t<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <pb n="39" facs="tcp:135425:29"/> remembrance, becauſe they ne<g ref="char:EOLhyphen"/>ver knew it. Thus he ſuf<g ref="char:EOLhyphen"/>fered him to reſt a while, afterwards returning with o<g ref="char:EOLhyphen"/>thers, prayed. Then he was asked, how he did. <hi>Miſera<g ref="char:EOLhyphen"/>bly.</hi> Doe not you ſearch in<g ref="char:EOLhyphen"/>to the ſecrets of God. <hi>It is too true and manifest.</hi> Sir, doe not alwaies be digging in at your ſinnes. A wound continually rubbed cannot be cured. Suffer the plaiſters of the Word of God to reſt upon it, that it may be holp<g ref="char:EOLhyphen"/>en. <hi>Oh, if I had! Oh, if it would pleaſe God! I had rather then any thing in this or other three thouſand worlds.</hi> Who now giveth this deſire unto you? Of our ſelves we can<g ref="char:EOLhyphen"/>not think a good thought: God giveth both the will and the deed. A deſire is a ſure
+<pb n="40" facs="tcp:135425:30"/> token. <hi>But I cannot truly de<g ref="char:EOLhyphen"/>ſire.</hi> You doe not deſire falſe<g ref="char:EOLhyphen"/>ly, therefore: truly what doe you diſſemble? <hi>Here is a trick.</hi> You muſt needs diſtinguiſh between unperfect deſire and hypocriticall. Will you know whether your deſire be true? There are two ſignes thereof<g ref="char:punc">▪</g> Conſtancy, and a conſcionable uſing of the means: You have found theſe in you, doth this argument hold? You doe not feel, therefore you have it not? I know when you would have denyed ſuch an argu<g ref="char:EOLhyphen"/>ment: If that did follow, it ſhould fare well with the Reprobate, he hath no ſenſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> of the wrath of God, there<g ref="char:EOLunhyphen"/>fore he is not under it. <hi>E<g ref="char:EOLunhyphen"/>lizabeth</hi> ſaid, Whence is it tha<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the mother of the Lord ſhoul<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> come unto me? ſurely from
+<pb n="41" facs="tcp:135425:30"/> their Chriſtian heart. Truly I could hardly have come to you, but that I thought I was bound in conſcience, be<g ref="char:EOLhyphen"/>cauſe I know you to be the ſervant of the Lord: When you were well, if we ſhould have come with proofs out of the Word of the Lord, you would have believed us. <hi>Yes.</hi> Why not now when your <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>udgement is blinded? <hi>Oh, the <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>udgement of God!</hi> Call it as <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e calleth it, Corrections. <hi>Oh, <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ny inſenſible heart! Oh, dead!</hi> A dead man cannot perceive <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>imſelf dead, and God quick<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eth the dead. <hi>Oh, if he would <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nlarge my heart!</hi> This deſire <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s good; <hi>But it is without ſa<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>our.</hi> God in mercy will <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eild you a comfortable rel<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>iſh: Conſider I pray you; <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hereas man may object, The
+<pb n="42" facs="tcp:135425:31"/> Lord is ſtrong and terrible. It followeth, Mercifull with<g ref="char:EOLhyphen"/>all. <hi>But I am backward in ſeek<g ref="char:EOLhyphen"/>ing it.</hi> He is gracious, more forward then thou canſt be backward: but I have pro<g ref="char:EOLhyphen"/>voked. Him; he is ſlow to an<g ref="char:EOLhyphen"/>ger: but my ſinnes are great but he is abundant in good<g ref="char:EOLhyphen"/>nes and in truth. The Lord hath promiſed that he on hi<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> part will be our God, an<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> we on our part ſhall be his peo<g ref="char:EOLhyphen"/>ple. For a while he commend<g ref="char:EOLhyphen"/>ed him to God: ſhortly after re<g ref="char:EOLhyphen"/>turning, he prayed with him Caſt your burthen upon God <hi>He hath rejected me.</hi> Who mad<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> you his counſellour? Secre<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> things belong unto God, bu<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> revealed things unto us: wil<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> you make Almanackes? <hi>He dot<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> manifeſt it: Oh mine abominabl<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> bringing up of youth!</hi> he witha<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <pb n="43" facs="tcp:135425:31"/> groaned moſt deeply. If you had done as well as the juſteſt man, you ſhould ſtand in need of the merits of Chriſt. I, or another may bring arguments, but it belongs to the Lord to faſten them on the heart. I ſay to you as <hi>Noah</hi> did to <hi>Japhet,</hi> God perſwade <hi>Japhet, &amp;c.</hi> What if your ſinnes were as crimſon, God can make them as ſnow. <hi>That is true of thoſe that are capa<g ref="char:EOLhyphen"/>ble.</hi> Behold, we make your e<g ref="char:EOLhyphen"/>ſtate our own, we have part in your ſorrow: who hath thus (think you) diſpoſed our hearts? <hi>God.</hi> And doe you think that he which cauſeth us to love you, doth not love you himſelf? <hi>I fear I did too much glory in mat<g ref="char:EOLhyphen"/>ters of private ſervice to God.</hi> The neerer we come to God, the more we ſee our own vileneſſe. This is the uſe which I make of
+<pb n="44" facs="tcp:135425:32"/> it, bleſſed be God which hath not put our eſtate in our own hands, but kept it in his. The Devil hath now winnowed you and you think all is gone out, bu<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> God holdeth what is his. A<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> Artificer can diſtinguiſh droſſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> from the metall, cannot God his from yours? Well, with <hi>Jo<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> lay your hand on your mouth and hold your peace, and ſo goo<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> reſt have you: Onely conſide<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> your comfort, though it be bu<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ſmall, whence it came, even from Gods Word and ſervants, no o<g ref="char:EOLhyphen"/>therwiſe.</p>
+            <p>
+               <note place="margin">M. <hi>Dod.</hi>
+               </note>When he returned again t<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> take and give farewell, he be<g ref="char:EOLunhyphen"/>gan to complain: <hi>Oh, great an<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> grievous!</hi> The Lord knowet<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> what power he hath given you A father will put a greater bu<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> then upon a ſtronger ſonne. Bu<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ſee the difference. When a
+<pb n="45" facs="tcp:135425:32"/> earthly father or maſter ſetteth his on work, they muſt doe it with their own ſtrength; but the Lord ſetteth on work, and giveth ſtrength to be not diſcou<g ref="char:EOLhyphen"/>raged. You are now in your cal<g ref="char:EOLhyphen"/>ling: <hi>Oh, mine heart is miſerable!</hi> What then? A father loveth his ſonne as well when he is ſleep<g ref="char:EOLhyphen"/>ing, as when he is waking. Sir, I have known you heretofore, and although, if I were in your caſe, I might doe as you doe, yet I remain the ſervant of God, as you certainly are. The Ho<g ref="char:EOLhyphen"/>ly Ghoſt calls to your remem<g ref="char:EOLhyphen"/>brance what you have hereto<g ref="char:EOLhyphen"/>fore taught, and now heard: And although I ſhall be abſent in body, yet ſhall I be preſent in minde. Be not too covetous to ſeek abundance by and by. If <hi>Jacob</hi> could ſay to <hi>Eſau,</hi> I have ſeen thy face, as though I had
+<pb n="46" facs="tcp:135425:33"/> ſeen the face of God, much more ſhould you think ſo of the chil<g ref="char:EOLhyphen"/>dren of God that come to you. <hi>I thank God</hi> (ſaith he) <hi>he hath be<g ref="char:EOLhyphen"/>gun to eaſe me.</hi> He will in his good time. <hi>God grant.</hi> Thus he took his laſt farewell. Al<g ref="char:EOLhyphen"/>though vve depart from our friends in the way, yet vve ſhall meet at the end. One told Ma<g ref="char:EOLhyphen"/>ſter <hi>Dod</hi> that he had uttered ſuch words. <hi>Now the Lord hath made me a ſpectacle.</hi> Whereupon he counſelled one that attended on him, to be ſparing in admitting commers in, or ſpeakers, leſt his brain ſhould be too much heat<g ref="char:EOLhyphen"/>ed. A friend of his comming to him, asked him, Dare you mur<g ref="char:EOLhyphen"/>mure and repine againſt God? <hi>Why ſhould I ſo?</hi> God be bleſ<g ref="char:EOLhyphen"/>ſed. It is a ſigne of grace. <hi>But I have no meanes.</hi> You have had them offered. <hi>But not given with
+<pb n="47" facs="tcp:135425:33"/> effect.</hi> They ſhall, I doubt not. <hi>God grant: but I doe not feel it.</hi>
+            </p>
+            <p>He received a letter from a friend very reſpective,<note place="margin">M. <hi>Bolton.</hi>
+               </note> and much reſpected of them both: where<g ref="char:EOLhyphen"/>in were written theſe very words: <q>I heard, I know not hovv true, that our dear Chriſtian friend M<hi rend="sup">r</hi> 
+                  <hi>Peacock</hi> is in great danger: which hath much greived and afflicted my heart, and vvrung from me very bitter teares. If his extremities be ſuch, his ten<g ref="char:EOLhyphen"/>tations are very like to be ſore. Tell him from me (as one vvho did ever, with deareſt inti<g ref="char:EOLhyphen"/>matenes knovv and converſe with him) that I can aſſure him in the word of life and truth, fro<g ref="char:cmbAbbrStroke">̄</g> a moſt juſt and holy God, whoſe Miniſter I am, That he is undoubtedly one of his Saints, deſigned for immorta<g ref="char:EOLhyphen"/>lity, and thoſe endles joyes in
+<pb n="48" facs="tcp:135425:34"/> another world.</q> When it was read to him; at thoſe words I can aſſure him, <hi>&amp;c.</hi> (he ſaid) <hi>Oh, take heed, take heed,</hi> doe you think he vvould or durſt aſſure you, unles he knew on what grounds? <hi>I did deceive my ſelf, now God hath revealed more.</hi> Ano<g ref="char:EOLhyphen"/>ther time one requeſted him, that he would make his friends par<g ref="char:EOLhyphen"/>takers of the leaſt comfort that the Lord beſtovved upon him, as they had been partakers of his grief. <hi>If I had it, I would wil<g ref="char:EOLhyphen"/>lingly communicate it.</hi> Search and take notice of the leaſt. <hi>How ſhould I have any, ſince God deny<g ref="char:EOLhyphen"/>eth the means?</hi> doe you think ſenſe is a fruit of faith? <hi>Yes, at this ſeaſon,</hi> although the huſ<g ref="char:EOLhyphen"/>bandman hath ſown much, yet he ſeeth nothing above ground. <hi>Applications doe not prove, hold your peace, my heart is broken.</hi>
+               <pb n="49" facs="tcp:135425:34"/> Then the promiſe is yours. I would gladly ask you one thing, <hi>Now you will ask twenty.</hi> Doe you ſeek for grace in your heart? <hi>I cannot.</hi> How then can you know whether it be there or no? <hi>It is dead.</hi> The Lord in whoſe hand the diſpoſing thereof is, diſpoſe it for your good and his glory. <hi>I thank you.</hi> What doe you think of that place, <hi>Whoſe ſins you remit, they are remitted,</hi> &amp;c. <hi>You know how farre they may goe.</hi> Howſoever, Sir, the bar<g ref="char:EOLhyphen"/>gain is not now to be made be<g ref="char:EOLhyphen"/>tween God and you. Shortly after came one whom he much eſteemed. <hi>Oh I love</hi> (ſaid he) <hi>your company, for the graces in you,</hi> and much more to the ſame pur<g ref="char:EOLhyphen"/>poſe. Suddainly he brake out into this ejaculation, <hi>Oh God, re<g ref="char:EOLhyphen"/>concile me unto thee, that I may taſte one dramme of thy grace, by
+<pb n="50" facs="tcp:135425:35"/> which my miſerable ſoul may receive comfort.</hi> One ſecretly willed that man to deſire him to repeat it again. <hi>Doe not trouble me with repetitions.</hi> There being a ſer<g ref="char:EOLhyphen"/>mon, he bade them about him goe thither. After he called one, and asked him whether the preacher (being acquainted with his courſe of preaching) did uſe his accuſtomed diviſions. He told one, Satan had borne him in hand, and had deluded him: to who<g ref="char:cmbAbbrStroke">̄</g> the other anſwered, I hope that God will reſtore you as be<g ref="char:EOLhyphen"/>fore, to glorify him here. <hi>No. No.</hi> Yea, if you were weaker, I would hope notwithſtanding. <hi>I deſire nothing more.</hi> God be thanked, you have laboured care<g ref="char:EOLhyphen"/>fully for his glory. <hi>I would la<g ref="char:EOLhyphen"/>bour after another faſhion.</hi> In the night he prayed and repeated his belief. And after reſting a while,
+<pb n="51" facs="tcp:135425:35"/> he called thoſe that watched with him, <hi>Bear witneſſe, I ſaid not, I believe, but in generall, and as deſiring that I might believe.</hi> One comming to viſit him, ask<g ref="char:EOLhyphen"/>ed him, How is it with you? <hi>My minde was grievouſly puZZled with ſundry distractions this night, but now I feel my burthen more light, I thank God.</hi> He was put in minde of that place, <hi>Iſa.</hi> 54.8, 11, 12, <hi>&amp;c. Oh thou afflicted and toſ<g ref="char:EOLhyphen"/>ſed with tempeſts, and not comfort<g ref="char:EOLhyphen"/>ed; behold, I will lay thy ſtones with faire colours, and thy foundations with Saphyrs; And I will make thy windowes of Agates, and thy gates of Carbuncles: and all thy borders of pleaſant stones,</hi> &amp;c. <hi>For a lit<g ref="char:EOLhyphen"/>tle while I hid my ſelf from thee, but with everlasting kindnes will I have mercy on thee.</hi> He lifted up his eyes: thereupon being ask<g ref="char:EOLhyphen"/>ed what the Lord did ſay to his
+<pb n="52" facs="tcp:135425:36"/> ſoul, that had long refuſed comfort? <hi>Take heed, be not to<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> bold, look to the foundation.</hi> And then prayed. <hi>Lord grant m<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> the comfort of thy deliverance, and forgive me my fooliſhnes, that I may praiſe thy name.</hi> Then he complained of his idle ſpeeches. Upon the Sabbath day one came to him, willing him to put his hand to a note of certain debts. <hi>This is not a day for that.</hi> We will goe to Sermon. <hi>God ſpee<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> you.</hi> Now you cannot goe to Church to ſerve the Lord, I pray him to come to you. <hi>Amen.</hi> He hardly ſuffered any to ſtay with him. At evening one did read ſomething to him in Maſter <hi>Downams</hi> warfare, and asked him, doe you think it to be true? <hi>Yes.</hi> Therefore you muſt not truſt your ſenſe: <hi>What not ſuch as mine are? But I will not now
+<pb n="53" facs="tcp:135425:36"/> diſpute.</hi> When they were help<g ref="char:EOLhyphen"/>ing him up and putting on his cloathes; upon ſome occaſion one ſaid to him to this effect: A childe will not much grieve at the laying aſide of an old coat, when he hath anew made, Whe<g ref="char:cmbAbbrStroke">̄</g> you ſhall put on that, there ſhall be no longer nakednes, the reſur<g ref="char:EOLhyphen"/>rection will amend all. <hi>To thoſe that die in the Lord.</hi> No doubt you will dye in him, having lived in him. <hi>I have anſwered you before.</hi> But I would not believe you in that caſe. The next day a friend of his being to goe forth of town, asked him, whether he would have any thing with him, for he was to leave him, and knew not whether ever he ſhould ſee him again here. <hi>Look to your calling, that it be as well inward as outward.</hi> He counſelled another; <hi>To be ſtirring for the glory of God.</hi>
+               <pb n="54" facs="tcp:135425:37"/> To one ſtanding by, he ſaid. <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <hi>am thinking.</hi> What? <hi>On a for<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> to get grace.</hi> Put your truſt in God. <hi>So I doe.</hi> I omit how, and tell you that with great patience<g ref="char:punc">▪</g> he continually ſubmitted him<g ref="char:EOLhyphen"/>ſelf to adviſe in any means fo<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> his good: In putting his tem<g ref="char:EOLhyphen"/>porall eſtate in order; he deal<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> mercifully with his pooreſt deb<g ref="char:EOLunhyphen"/>tors, yea, with ſome which migh<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> well pay it. His worthy patro<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> (for ſo he often called him) whom for honours ſake I name, Sir <hi>Robert Harley,</hi> ſent his man to him with ſome <hi>aurum potabile,</hi> together with a book which a Doctour had made in the praiſe thereof. Comming to him, and asking him how he did, <hi>Oh</hi> (ſaid he) <hi>if it would pleaſe God that I might live with him.</hi> Anon after he <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>aid to one, <hi>I have been think<g ref="char:EOLhyphen"/>ing of arguments by which I might
+<pb n="55" facs="tcp:135425:37"/> pleade my cauſe with God, and I <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ave found: But what if dying thus, <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> ſhould be judged an Apoſtata?</hi> Man is not the Judge at whoſe Tribunall you muſt ſtand or fall. There came in many of our cheif Fellowes. One of them requeſt<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d him to make confeſſion of his <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>aith willingly. <hi>But I would <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hink of it firſt.</hi> Muſing awhile, <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e called them. <hi>Truly my heart <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nd ſoul have been farre lead, and deeply troubled with tentations and ſtings of conſcience: but I thank God they are eaſed in good meaſure: Wherefore I deſire that I be not branded with the note of a for<g ref="char:EOLhyphen"/>lorne or Reprobate: Such queſti<g ref="char:EOLhyphen"/>ons, oppoſitions, and all tending thereto, I renounce: Now help me, and put me in minde.</hi> What doe you think of your former doctrine? <hi>Most true: In it I have lived, and will dye; I have not
+<pb n="56" facs="tcp:135425:38"/> dealt hypocritically in it.</hi> Are you willing to die? <hi>Truly I will tell you: my Patron who of late ſent me potable gold, hath taken order that I might live with him contentedly in the Miniſtery: but I ſubmit my ſelf to the will of God.</hi> Doe you deſire the glory of God, and the ſalvation of your brethren? <hi>Most: Help my memory, what more?</hi> Doe you forgive all wrongs? <hi>Yes, and deſire that mine may be: And now I thank you. Sir, I re<g ref="char:EOLhyphen"/>member a thing wantonly done towards you,</hi> pointing at one preſent. <hi>You ſent me a knife for a new-years-gift; and I ty<g ref="char:EOLhyphen"/>ed two verſes to it, and ſent it back: I pray pardon me if any thing— For mine uncon<g ref="char:EOLhyphen"/>ſiderate ſpeeches in the time of my tentations, I heartily and humbly ask forgivenes.</hi> You did then (ſaith one) ſeem to rely
+<pb n="57" facs="tcp:135425:38"/> ſomewhat upon inherent righte<g ref="char:EOLhyphen"/>ouſnes, as if you ſought in your ſelf whereby you ſhould be ſa<g ref="char:EOLhyphen"/>ved: Indeed we knew your con<g ref="char:EOLhyphen"/>verſation to be unreproveable: <hi>No I dare not affirm it: I truſt in nothing but in the name of Jeſus.</hi> Have you any cer<g ref="char:EOLhyphen"/>tainty in him? <hi>I would not be preſsed to a particular aſsu<g ref="char:EOLhyphen"/>rance in this grievous agony.</hi> We deſire you to inform them that ſhall come unto you of your eſtate. <hi>My unability is great:</hi> They then praied, 1. Giving God thanks, that whereas before they had craved his mercy for his ſer<g ref="char:EOLhyphen"/>vant, he had heard them, and manifeſted to his glory, how he never forſaketh his: And beſought him, becauſe he knew the malice of the enemy, to per<g ref="char:EOLhyphen"/>fect his good work, and not ſuf<g ref="char:EOLhyphen"/>fer him to be tempted above his
+<pb n="58" facs="tcp:135425:39"/> ſtrength. Now, Sir, we tell yo<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> one thing to your comfort, W<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> never heard you ſpeak any thing againſt God or man, thorow<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> out the time of your viſitation<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> but wholly againſt your ſelf<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <hi>I have been bold thus to argue wit<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> God, If he hath ſhewed mercy t<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> ſuch and ſuch, why ſhould not <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> likewiſe have hope?</hi> He com<g ref="char:EOLhyphen"/>plained once, how, while h<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> was viſiting the ſick, (In whic<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> work many poor ſouls foun<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the ready mercifulnes of hi<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> heart, and now feel a great want) he lighted upon doubts; which that he might more ful<g ref="char:EOLhyphen"/>ly ſatisfy, when the like migh<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> be moved, he ſtudyed too ear<g ref="char:EOLhyphen"/>neſtly. One brought him a note book which he had lent (Alwayes willing to communi<g ref="char:EOLhyphen"/>cate what he had moſt private) <hi>Here is a book</hi> (ſaid he) <hi>of great
+<pb n="59" facs="tcp:135425:39"/> pains,</hi> &amp;c. To a ſtranger, a wor<g ref="char:EOLhyphen"/>thy gentleman that came to viſit him, he ſaid, <hi>The Lord is mercifull to me, and I have cauſe of rejoycing,</hi> &amp;c. Afterwards a reverend Governour came to him,<note place="margin">Dr <hi>A<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ery.</hi>
+               </note> to whom he complained of his ſinne and miſery. You look not (ſaid he) for any thing in your ſelf. <hi>No, for no<g ref="char:EOLhyphen"/>thing.</hi> You would amend if you had ſpace. <hi>Oh if I had— Certainly</hi>— Think on this. As the Lord hath heard the eja<g ref="char:EOLhyphen"/>culations and grones of your ſpirit in your infirmity, ſo he will now. If he will be glo<g ref="char:EOLhyphen"/>rified by your life, you ſhall live; Submit your ſelf to him, let him chooſe for you. <hi>My faith is weak.</hi> All, you know, are here but in part, you de<g ref="char:EOLhyphen"/>ſire notwithſtanding to runne to that which is perfect: So
+<pb n="60" facs="tcp:135425:40"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="61" facs="tcp:135425:40"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="60" facs="tcp:135425:41"/> you may ſee how low many have been brought, ſome (ſaid he) have been Idolatours, was not <hi>Manaſſes</hi> ſuch an one? <hi>Yes.</hi> And behold Gods ſervants from the beginning of the Bible to the end, they have ſlipped. <hi>Lot</hi> had ſhrewd ſlips, but yet here the teſtimony of the Apoſtle of him; he was juſt and righteous. You have been wearied and heavy loaden. <hi>Yes.</hi> For ſuch is the end of Chriſts comming: your deſire is a token of favour: For by how much the neerer we come, the more we thirſt. Think now on his loving kindnes; he hath begun, and he will finiſh whom you have ſerved. <hi>I did endeavour, but vile imperfections,</hi> &amp;c. It is our greateſt perfecti<g ref="char:EOLhyphen"/>on here, to ſee our imperfections. Shortly after came to him many young Gentlemen, to whom he
+<pb n="61" facs="tcp:135425:41"/> ſaid, <hi>Live in Gods fear, that you may die in his favour: Otherwiſe the Oxe and the Aſse will condemn you; I ſpent my time fooliſhly and prodigally.</hi> You have (ſaid one) remembred that ſufficient<g ref="char:EOLhyphen"/>ly; Remember alſo Chriſt. <hi>That is true, Chriſt is to be re<g ref="char:EOLhyphen"/>membred, and our ſinnes to be re<g ref="char:EOLhyphen"/>membred alſo.</hi>
+            </p>
+            <p>The night following, which was Wedneſday night, the Sun of Righteouſnes ſpread gracious beams at his ſetting, which were comfortable tokens of a glorious riſing. His laſt ſwan<g ref="char:EOLhyphen"/>like ſong, as he uttered it, was pen'd by ſome as he uttered it. One comforting him by his bead-ſide ſome two houres or more before his death, he brake out into theſe ſpeeches; <hi>Quid <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e ſalute mea ſentiam expectatis <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t explicarem: uſque adeo indul<g ref="char:EOLhyphen"/>get
+<pb n="62" facs="tcp:135425:42"/> Deus ijs quos ſemel dilexerit, ut eos nunquam deſerat, at<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> ideo me in coelos tranſiturum pro certo habeo: Feliciſsima ſunt ea vincu<g ref="char:EOLhyphen"/>la in quae me conjecit Deus benig<g ref="char:EOLhyphen"/>niſsimus;</hi> You all expect that I ſhould declare what I thinke of my own ſalvation: God is ſo indulgent to thoſe whom he hath ever loved, that he never forſakes them, and there<g ref="char:EOLhyphen"/>fore I am aſſured I ſhall goe to Heaven: Moſt happy are thoſe fetters into which I was caſt by a moſt mercifull God. One telling him, You have fought a good fight, <hi>&amp;c.</hi> he ſaid, <hi>Ex<g ref="char:EOLhyphen"/>petit, expedit ut contendam ad coe<g ref="char:EOLhyphen"/>lum; Tollite, Tollite, Eripite, Eripite, ut coelum adeam: Deus indulget ingenuitati bono<g ref="char:EOLhyphen"/>rum.</hi> It is requiſite, it is requi<g ref="char:EOLhyphen"/>ſite that I ſhould contend for Heaven: Take me up, take me
+<pb n="63" facs="tcp:135425:42"/> up, carry me hence, carry me hence, that I may go to Hea<g ref="char:EOLhyphen"/>ven; God doth cheriſh the in<g ref="char:EOLhyphen"/>genuity of the good. Being put in minde of Gods mercy towards him, he made anſwer: <hi>Oh, the ſea is not ſo full of water, nor the Sunne of light, as God is of goodnes, his mercy is ten thou<g ref="char:EOLhyphen"/>ſand times more.</hi> Being likewiſe remembred of Gods goodnes towards him, in filling his heart with ſuch comforts, after ſo great tentations, he ſaid: <hi>I doe (God be praiſed) feel ſuch comfort from that: What ſhall I call it?</hi> Agony, ſaith one, <hi>Nay, that is too little: That had I five hundred worlds, I could not not make ſa<g ref="char:EOLhyphen"/>tisfaction for ſuch an iſſue.</hi> Being moved to lift up his heart in to<g ref="char:EOLhyphen"/>ken of thankfulneſſe unto his God, he uttered theſe words: <hi>What, ſhall I extoll the magnificence
+<pb n="64" facs="tcp:135425:43"/> of God, which is unſpeakeable, and more then any heart can conceive? Nay rather let us with humble re<g ref="char:EOLhyphen"/>verence acknowledge his great mercy: What great cauſe have I to magnify the great goodnes of God, that hath humbled, nay ra<g ref="char:EOLhyphen"/>ther exalted ſuch a wretched miſ<g ref="char:EOLhyphen"/>creant of ſo baſe condition to an e<g ref="char:EOLhyphen"/>ſtate ſo glorious and ſtately! The Lord hath honour'd me with his goodnes: I am ſure he hath provi<g ref="char:EOLhyphen"/>ded a glorious Kingdom for me. The joy that I feel in my heart is un<g ref="char:EOLhyphen"/>credible.</hi> He made likewiſe pro<g ref="char:EOLhyphen"/>teſtation of that which he al<g ref="char:EOLhyphen"/>wayes before taught againſt ju<g ref="char:EOLhyphen"/>ſtification by inherent righte<g ref="char:EOLhyphen"/>ouſnes, and appealing to the knowledge of ſome there pre<g ref="char:EOLhyphen"/>ſent, what he continually main<g ref="char:EOLhyphen"/>tained, in that (ſaith he) I ſtill remain a Proteſtant. After three chapters read to him,
+<pb n="65" facs="tcp:135425:43"/> 
+               <hi>Revel.</hi> 19. <hi>Revel.</hi> 21. <hi>Rom.</hi> 8. <hi>Oh,</hi> (ſaith he) <hi>They be glorious comforts:</hi> Will you have any more read? <hi>Yea, a Pſalm, if you pleaſe,</hi> and named the 23. One beginning to read it, he deſired that it might be ſung: One ask<g ref="char:EOLhyphen"/>ing him, Will you ſing? <hi>Yea,</hi> ſaid he, <hi>as well as I can.</hi> The Pſalm being ſung, afterwards the 17. of <hi>John</hi> was read unto him: One comforting him by applying to him that in particu<g ref="char:EOLhyphen"/>lar, which Chriſt in generall performed for the good of the faithfull, he ſaid, <hi>Bleſſed be God,</hi> very often, <hi>I am a thouſand times happy to have ſuch felicity thrown upon me, a poor wretched miſcre<g ref="char:EOLhyphen"/>ant.</hi> After a little reſt, <hi>Lord Je<g ref="char:EOLhyphen"/>ſus</hi> (ſaid he) <hi>unto thy hands: Lord receive my ſoul, Lord lift thou up <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>he light of thy countenance upon me, and be mercifull unto me.</hi>
+               <pb n="66" facs="tcp:135425:44"/> Then very weak he repeated the Lords prayer twice, and his Belief once very plainly, and diſtinctly with a ſtrong voice, to the great admirati<g ref="char:EOLhyphen"/>on of the hearers: ſo he ſlept in the Lord.</p>
+            <closer>
+               <dateline>
+                  <date>
+                     <hi>December</hi> 4. <hi>Anno</hi> 1611.</date>
+               </dateline>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div type="postscript">
+            <pb facs="tcp:135425:44"/>
+            <head>The Poſt-ſcript to the READER.</head>
+            <p>THis copy of <hi>M. Bol<g ref="char:EOLhyphen"/>tons,</hi> and intended by him for the preſse, was by M. <hi>Edward Bagſhaw</hi> (o<g ref="char:EOLhyphen"/>verſeer of M. <hi>Boltons</hi> Will, and ſpecially intruſted for the printing of it) delivered about nine years ſince to M. <hi>George Miller,</hi> Printer of M. <hi>Bol<g ref="char:EOLhyphen"/>tons</hi> works, to be by him print<g ref="char:EOLhyphen"/>ed, as he had done his other books, M. <hi>Miller</hi> carried it to the Licenſer, who kept it
+<pb facs="tcp:135425:45"/> long in his hands, and at laſt refuſed it, as too preciſe for thoſe times: while it was in the Licenſers hands, one M. <hi>Milburne</hi> of intimate acquain<g ref="char:EOLhyphen"/>tance with him, got a copy of it, and printed it about five years ſince: but upon exami<g ref="char:EOLhyphen"/>nation, the tranſcribed copy was found imperfect, and by that means the book proved unſale<g ref="char:EOLhyphen"/>able. When this preſent copy was almost printed, M. <hi>Miller</hi> had notice of ſuch a book, and not before. This is thought fit to be made known, that the Reader might underſtand that this preſent copy is the onely true approved copy, and Li<g ref="char:EOLunhyphen"/>cenſed
+<pb facs="tcp:135425:45"/> by an eminent Di<g ref="char:EOLhyphen"/>vine of the Aſſembly, as a fit and uſefull book for theſe preſent times.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+         <div type="imprimatur">
+            <p>Imprimatur</p>
+            <closer>
+               <signed>Edm. Calamy.</signed>
+            </closer>
+         </div>
+      </back>
+   </text>
+</TEI>
